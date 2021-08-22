@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ICT272 - Assessment2/1.0.0": {
+        "runtime": {
+          "ICT272 - Assessment2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICT272 - Assessment2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

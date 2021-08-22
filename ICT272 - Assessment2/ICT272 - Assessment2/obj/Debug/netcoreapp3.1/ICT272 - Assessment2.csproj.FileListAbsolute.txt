@@ -1,0 +1,12 @@
+C:\Users\anhtu\OneDrive\Desktop\ICT272 Tutorial\ICT272 - Assessment 2\ICT272 - Assessment2\ICT272 - Assessment2\bin\Debug\netcoreapp3.1\ICT272 - Assessment2.exe
+C:\Users\anhtu\OneDrive\Desktop\ICT272 Tutorial\ICT272 - Assessment 2\ICT272 - Assessment2\ICT272 - Assessment2\bin\Debug\netcoreapp3.1\ICT272 - Assessment2.deps.json
+C:\Users\anhtu\OneDrive\Desktop\ICT272 Tutorial\ICT272 - Assessment 2\ICT272 - Assessment2\ICT272 - Assessment2\bin\Debug\netcoreapp3.1\ICT272 - Assessment2.runtimeconfig.json
+C:\Users\anhtu\OneDrive\Desktop\ICT272 Tutorial\ICT272 - Assessment 2\ICT272 - Assessment2\ICT272 - Assessment2\bin\Debug\netcoreapp3.1\ICT272 - Assessment2.runtimeconfig.dev.json
+C:\Users\anhtu\OneDrive\Desktop\ICT272 Tutorial\ICT272 - Assessment 2\ICT272 - Assessment2\ICT272 - Assessment2\bin\Debug\netcoreapp3.1\ICT272 - Assessment2.dll
+C:\Users\anhtu\OneDrive\Desktop\ICT272 Tutorial\ICT272 - Assessment 2\ICT272 - Assessment2\ICT272 - Assessment2\bin\Debug\netcoreapp3.1\ICT272 - Assessment2.pdb
+C:\Users\anhtu\OneDrive\Desktop\ICT272 Tutorial\ICT272 - Assessment 2\ICT272 - Assessment2\ICT272 - Assessment2\obj\Debug\netcoreapp3.1\ICT272 - Assessment2.AssemblyInfoInputs.cache
+C:\Users\anhtu\OneDrive\Desktop\ICT272 Tutorial\ICT272 - Assessment 2\ICT272 - Assessment2\ICT272 - Assessment2\obj\Debug\netcoreapp3.1\ICT272 - Assessment2.AssemblyInfo.cs
+C:\Users\anhtu\OneDrive\Desktop\ICT272 Tutorial\ICT272 - Assessment 2\ICT272 - Assessment2\ICT272 - Assessment2\obj\Debug\netcoreapp3.1\ICT272 - Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\anhtu\OneDrive\Desktop\ICT272 Tutorial\ICT272 - Assessment 2\ICT272 - Assessment2\ICT272 - Assessment2\obj\Debug\netcoreapp3.1\ICT272 - Assessment2.dll
+C:\Users\anhtu\OneDrive\Desktop\ICT272 Tutorial\ICT272 - Assessment 2\ICT272 - Assessment2\ICT272 - Assessment2\obj\Debug\netcoreapp3.1\ICT272 - Assessment2.pdb
+C:\Users\anhtu\OneDrive\Desktop\ICT272 Tutorial\ICT272 - Assessment 2\ICT272 - Assessment2\ICT272 - Assessment2\obj\Debug\netcoreapp3.1\ICT272 - Assessment2.genruntimeconfig.cache
